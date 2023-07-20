@@ -9,11 +9,10 @@
 
 </div>
 Social Networking mobile app similar to Instagram in React Native.
-<br/>Native mobile application for my <a href='http://sociallappp.herokuapp.com/'>SocialApp-MERN</a> (web) project.
-<br/>Find its Github repo  <a href='https://github.com/shahshubh/socialApp-MERN'>here</a>
+
+<br/>Find its Github repo  <a href='https://github.com/Rohini2002-kamade/SocialApp'>here</a>
 
 
-## Download Apk File from <a href='https://socialapp-serverr.herokuapp.com/static/socialapp-rn-2.apk'>here</a>
 
 
 ## Features
@@ -49,7 +48,7 @@ Social Networking mobile app similar to Instagram in React Native.
 
 <h4 align="center">Create Post Screen &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Notification on new message</h4>
 <img height=480 width=240 style="margin: 10px;" src="./screenshots/10.jpg"/>
-<img height=480 width=240 style="margin: 10px;" src="./screenshots/11.jpg"/>
+
 
 </div>
 
@@ -58,8 +57,8 @@ Social Networking mobile app similar to Instagram in React Native.
 
 ## Run project locally
 
-* clone this Repository by `git clone https://github.com/shahshubh/SocialApp-React-Native.git`.
-* Change directory `cd SocialApp-React-Native`
+* clone this Repository by `git clone https://github.com/Rohini2002-kamade/SocialApp.git`.
+* Change directory `cd SocialApp`
 * Make sure you have expo-cli installed. If not run `npm install -g expo-cli`
 * Install the dependencies using `npm install`
 * create new file env.js in root directory and add
